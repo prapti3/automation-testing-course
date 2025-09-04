@@ -1,0 +1,20 @@
+What is Selenium
+Why Selenium? / Advantages
+What are its versions?
+What all OS, Browsers, and Programming Languages it Support?
+Java-Selenium Architecture
+WebDriver Architecture
+Basic Selenium Program to Open and close Browser
+Runtime Polymorphism Program in Selenium
+WebDriver abstract methods
+Locators - Xpath, its Types and cases.
+Handling Multiple Elements
+Handling Synchronization issue by using implicitly Wait and Explicit Wait
+Handling Dropdown (static and dynamic)
+Handling Keyboard and Mouse Actions
+Taking Screenshot
+Handling Disabled Element , Performing Scroll down Action
+Handling Popups (web-based and Window-based)
+Handling Frames, Handling New Windows/New Tabs
+Custom Automation Framework
+New Selenium 4.6.0

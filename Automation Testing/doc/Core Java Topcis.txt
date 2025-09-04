@@ -1,0 +1,29 @@
+1> Core Java Topics 
+2> Threads & OOPs
+3> Collections Frameworks
+4> Design Patterns
+5> What is Java, Features, Variables.
+6> Data Types in Java- Primitive Data Type and Non-Primitive Data Type
+7> Operators-Arithmetic and Logical operators in Java
+8> Looping statement- For loop, while loop, enhanced for loop
+9> Conditional Statement
+10> Array in Detail
+11> Classes, Object in Java
+12> Static vs Non-static
+13> Access Modifier- Public, Private, Protracted, Default
+14> Inheritance- Single level Inheritance
+15> Constructor- Default constructor and parameterized constructor
+16> Method overloading- Compile time Polymorphism
+17> Constructor overloading- Compile time Polymorphism
+18> Method overriding- Run time Polymorphism
+19> Interface
+20> Abstract Class
+21> String class and usage
+22> Collection and Collections- Dynamic data structure and important for the framework and script development
+23> List- ArrayList and LinkedList
+24> Set- HashSet, Linked HashSet,TreeSet
+25> Map- HashMap, Linked HashMap, TreeMap
+26> Exception Handling- Handle Java exception
+27> Best Practices Programming & Framework
+
+

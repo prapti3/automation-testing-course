@@ -1,0 +1,30 @@
+
+Roadmap to Become an Automation Tester
+Software Testing Basics , Job Tracking System
+Levels of Software Testing
+ Manual Testing Basics(Unit, Integration and System Testing)
+SDLC, water fall, Spiral and V Model
+[Assignment #2] Agile, Scrum, JIRA and SDLC Models
+[Notes] Test Design Chats
+[Notes] STLC
+[Notes] Test cases - Ultimate
+[Notes] Test Metrics - Project VWO
+[Notes] Test Plan - Template
+[Notes] Manual Testing Basics
+Test Design Manual Testing Refresher
+Manual Refresher and HTTP fundamentals
+[Quiz] Manual Refresher
+REAL LIFE Scenario Based Manual Testing Interview Questions and Answers
+Top 10 Scenario Based Manual Testing Interview Questions and Answers
+Agile Quiz
+API Testing Notes
+Manual Testing Interview QnA Part 3
+HTTP Fundamentals and API Testing
+Agile, Scrum, JIRA & Manual Testing Basics for Automation Tester
+API Testing with Postman
+201 + API Testing and Postman Interview QnA
+6 Constraints of the REST architectural Style QA Should Know
+101+ Postman Interview QnA
+[Assignments] - Postman ( API Testing)
+Javascript, Advance Postman, OAuth 2.0 - P4
+Testing GraphQL Queries using Postman With Example

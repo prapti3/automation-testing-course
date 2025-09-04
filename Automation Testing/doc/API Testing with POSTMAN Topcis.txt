@@ -1,0 +1,41 @@
+API Testing with POSTMAN 
+
+Mastering API Testing with POSTMAN
+Presentation, Business and Database layers
+Client-Server Architecture
+HTTP Basics
+HTTP Methods
+What is an API?
+What is API Testing?
+Difference between API testing and Unit testing
+What is Web services?
+HTTP Structure
+Type of Defects in API Testing
+Learn What is xml and JSON?
+URI and URL
+Tools for API Testing
+Introduction to REST Web services.
+SOAP Introduction
+Why learning REST is Important?
+Difference between SOAP and REST Web services.
+REST constraints
+Introduction to POSTMAN tool and installation.
+Creating requests in Postman.
+Creating collections in Postman.
+Understanding variables and environments in Postman.
+Authorization in POSTMAN.
+Assertions/Test scripts in POSTMAN.
+Command line integration with Newman.
+Running POSTMAN Collection on Docker, Jenkins
+What is JSON Schema Validation?
+How to perform JSON Schema validation?
+Data Driven Testing with CSV with POSTMAN
+Exploring POSTMAN More features Mocking, Stabbing
+Testing GraphQL with POSTMAN
+Testing Websoctks with POSTMAN
+Writing API Test cases & Test Plan
+Running Testcases with POSTMAN
+Writing API Test cases & Test Plan
+Running Testcases with POSTMAN
+Advance JSON Schema
+LIVE API Testing Example

@@ -1,0 +1,128 @@
+1> Software Testing Basics , UI Testing
+
+a. Basics of Software Testing
+b. SDLC
+c. STLC
+d. Testing Techniques
+e. Debugging
+f. Test Management Tools
+g. Bug Tracking Tools
+h. Email Reports
+I. Communication
+j. Agile Methodology
+k. Scrum Framework
+l. JIRA(Knowledge)
+
+
+
+
+2> Core Java, Selenium Concepts & Automation Framework
+
+
+a. Core Java
+b. Collections Frameworks
+c. OOPs
+d. Threading
+f. Design Pattern
+
+
+
+
+3> API Testing Manual with POSTMAN Crash Course (POSTMAN , Rest Assured)
+
+
+a. API Testing Manually
+b. HTTP Fundamentals
+c. REST, SOAP
+d. HTTP Methods
+e. API Automation Framework
+
+4> Web Automation (Selenium)
+
+a. Selenium
+b. Maven
+c. TestNG
+d. Apache POI
+e. Filo
+f. Lambok
+g. Frameworks
+h. Cucumber BDD
+
+
+5> Master Selenium for E2E Web Automation in Java & Selenium Grid
+6> Learn about the CI/CD and DevOps stuff like Git, GitHub, Jenkins, AWS, Docker Basics
+
+CI/CD for QA ----> 
+
+a. Git
+b. Jenkins
+c. AWS Basics 
+d. Docker
+e. Linux Commands
+f. Selenoid
+g. GitLab
+h. GitHub
+
+
+7> Overview of Playwright UI E2E Automation Framework
+8> GitHub Actions and Docker Basics Jenkins to Run our Automation Framework Daily
+9> Cucumber BDD Overview & Serenity BDD Framework Overview
+10> Mobile Testing & Appium Overview
+
+
+Proper Project Done From requirement to Email Report -------->
+
+1. Know how to create test plan
+2. how to create test scenarios, testcases
+3. bug reporting
+4. email reports to stake holders
+5. RCA (Root Cause Analysis)
+6. Test Effort Estimation
+1-2x Projects properly done
+Added to GitHub 
+Resume
+
+
+*******************  PROJECTS *******************
+
+Manual Testing Project --->
+
+2 Live Projects 
+Add to Resume
+Test Plan, TC & Bug Report
+JIRA
+Scrum And Agile
+GitHub.com
+
+
+API Automation Projects --->
+
+2-3 API Testing Projects for API Automation
+Web Automation 2-3x Projects
+Cucumber BDD - 1x
+Push to GitHub & Resume fix
+
+
+Web automation Projects --->
+
+2-3 API Testing Projects for API Automation
+Web Automation 2-3x Projects
+Cucumber BDD - 1x
+Push to GitHub & Resume fix
+
+
+Push to GitHub and Resume fix 
+
+Push to GitHub
+Resume add
+Fix resume and LinkedIn
+Apply and fix
+Learn more concepts
+
+
+
+
+
+
+
+

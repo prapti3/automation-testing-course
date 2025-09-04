@@ -1,0 +1,12 @@
+Tosca Automation
+Designing Automation Frameworks
+UI & API Automation
+CI/CD Integration
+JIRA/ Azure DevOps (ADO)
+End-to-end Test Lifecycle Automation
+Selenium
+SOAP
+Agile Testing
+SQL
+Hibernate
+GIT

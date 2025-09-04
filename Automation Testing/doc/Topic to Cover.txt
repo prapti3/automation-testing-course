@@ -1,0 +1,11 @@
+Handle Embedded controls in Table Cells
+Take Screen shorts
+Close Program | Taskkill | Start Program
+Multi Language
+Intervals Syntax to Verify Action Mode
+Create, Open, Modify Excel 
+row count & column Count
+Drag & Drop Operation
+String Operations
+
+

@@ -1,0 +1,19 @@
+Configure Eclipse with Rest-Assured
+REST API Test using Rest Assured
+Validate Response Status using Rest Assured
+Validate Response Header using Rest Assured
+Read JSON Response Body using Rest Assured
+Framework Definitions
+Type of Automation framework, usage, features and myth about the framework
+Data Driven Framework from scratch
+Hybrid Framework
+Creation of framework Skelton
+Different component of the framework
+Data Provider- Config and Excel Data Provider- Test Data and config file
+Base Class creation and usage
+Folder structure & Framework creation
+Framework creation
+Setting up Cucumber project
+Performing a LIVE project Cucumber BDD and Rest Assured
+Running API Automation in CI/CD Jenkins
+Discussion over more than 51+ interview questions for freshers and experience candidate

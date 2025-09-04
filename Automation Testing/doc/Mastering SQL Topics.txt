@@ -1,0 +1,18 @@
+What Is Database?
+Database Management System (DBMS)?
+What is Relational Model ?
+Datatypes and Constraints
+Statements in SQL
+Software installation
+Data Query Language (DQL)
+Operators
+Functions in SQL
+Data Definition Language (DDL)
+Data Manipulation Language (DML)
+Transaction Control Language (TCL)
+Data Control Language (DCL)
+Normalization
+SQL Masterclass Part 1
+SQL Masterclass Part 3
+SQL Masterclass Part 2
+[ SQL Notes ] ( PDF )
