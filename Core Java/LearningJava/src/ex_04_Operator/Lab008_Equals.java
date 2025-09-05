@@ -7,5 +7,8 @@ public class Lab008_Equals {
         System.out.println(10<10);
         System.out.println(10==20);
         System.out.println(10>=30);
+
+
+
     }
 }
