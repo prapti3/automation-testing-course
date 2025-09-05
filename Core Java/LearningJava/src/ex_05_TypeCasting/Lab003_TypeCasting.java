@@ -5,7 +5,8 @@ public class Lab003_TypeCasting {
         long phone = 987643533;
         //short s = phone // implicit narrow?
         short s1 = (short)phone; // explicit narrow?
-        System.out.println(typeof(s1));
+        System.out.println(s1);
+
 
     }
 }
