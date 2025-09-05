@@ -1,4 +1,4 @@
-package ex_07_UserInput;
+package ex_06_UserInput;
 
 public class LabCLI {
     public static void main(String[] args) {

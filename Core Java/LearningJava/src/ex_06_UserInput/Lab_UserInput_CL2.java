@@ -1,6 +1,4 @@
-package ex_07_UserInput;
-
-import java.util.Scanner;
+package ex_06_UserInput;
 
 public class Lab_UserInput_CL2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_07_UserInput;
+package ex_06_UserInput;
 
 import java.util.Scanner;
 
