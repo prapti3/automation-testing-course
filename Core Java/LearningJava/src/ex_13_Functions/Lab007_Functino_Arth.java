@@ -13,7 +13,7 @@ public class Lab007_Functino_Arth {
         System.out.println("Enter the num 2");
         int b = sc.nextInt();
 
-     
+
 
     }
 }
