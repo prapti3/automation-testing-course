@@ -4,6 +4,7 @@ public class Lab004_classname {
     public static void main(String[] args) {
 
     }
+
 }
 /*
  * abc$abc
