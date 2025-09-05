@@ -20,23 +20,42 @@ public class CP001_Triangle_Classifier {
 * */
 
 
-        Scanner input = new Scanner(System.in);
-        System.out.println("Please enter the length of side1 in the triangle");
-        int side1 = input.nextInt();
-        System.out.println("Please enter the length of side2 in the triangle");
-        int side2 = input.nextInt();
-        System.out.println("Please enter the length of side3 in the triangle");
-        int side3 = input.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the Side1: ");
+        int side1 = scanner.nextInt();
 
+        System.out.print("Enter the Side2: ");
+        int side2 = scanner.nextInt();
 
-        if(side1 == side2 || side1 == side3){
-            System.out.println("All side are equal!!! - Equilateral Triangle");
+        System.out.print("Enter the Side3: ");
+        int side3 = scanner.nextInt();
 
+        System.out.println("Side1: "+side1);
+        System.out.println("Side2: "+side2);
+        System.out.println("Side3: "+side3);
+
+        // Check if valid triangle
+        if (side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1) {
+            // Classify triangle
+            if (side1 == side2 && side2 == side3) {
+                System.out.println("Equilateral Triangle");
+            } else if (side1 == side2 || side2 == side3 || side1 == side3) {
+                System.out.println("Isosceles Triangle");
+            } else {
+                System.out.println("Scalene Triangle");
+            }
+        } else {
+            System.out.println("Not a valid triangle");
         }
-        else if(side1 == side2 && side1 == side3){
-            System.out.println("Exactly 2 sides are equal!!! - ?Isosceles Triangle");
-        }
-        else if(side1 == side2 && side1 == side3){}
+
+        scanner.close();
+
+
+
+
+
+
+
 
 
 
