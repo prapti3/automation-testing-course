@@ -1,6 +1,6 @@
 package ex_14_String;
 
-import java.util.Locale;
+
 
 public class Lab001_String_Immutable {
     public static void main(String[] args) {
