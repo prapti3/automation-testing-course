@@ -39,3 +39,7 @@ class B{ }
 //1. default
 //2. parametrised
 //3. Copy constructor - not for testers
+
+
+
+//there can be only 1 public class
