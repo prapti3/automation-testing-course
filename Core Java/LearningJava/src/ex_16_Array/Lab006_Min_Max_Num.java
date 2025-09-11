@@ -24,7 +24,7 @@ public class Lab006_Min_Max_Num {
 
         static int give_me_min ( int[] array){
             int min = array[0];
-            for (int i = 0; i < array.length; i++) {
+            for(int i = 0; i < array.length; i++) {
                 if (array[i] < min) {
                     min = array[i];
                 }
